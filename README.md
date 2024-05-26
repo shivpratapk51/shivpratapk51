@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivpratap.
-- 👀 I’m interested in WEB DEVELOPMENT.
+- 👀 I’m interested in WEB DEVELOPMENT and UI/UX Design.
 - 🌱 I’m currently learning REACT and EXPRESS
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 You can contact me on following platforms-->
